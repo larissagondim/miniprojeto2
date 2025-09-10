@@ -37,3 +37,9 @@ dist/
 .vscode/
 .idea/
 .ipynb_checkpoints/
+
+# Ignora ambientes virtuais do Python
+.venv/
+
+# Ignora arquivos de dados compactados
+*.zip
