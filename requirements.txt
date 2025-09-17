@@ -1,10 +1,9 @@
-numpy
-pandas
-matplotlib
-seaborn
-librosa
-scikit-learn
-tensorflow    
-streamlit
-soundfile       # Necessário para lidar com arquivos de áudio
-kaggle          # Caso você queira, pode usar a API do Kaggle para pegar os audios
+streamlit==1.27.0
+numpy==1.24.3
+librosa==0.10.1
+joblib==1.3.2
+tensorflow==2.13.0
+soundfile==0.12.1
+scikit-learn==1.3.0
+matplotlib==3.7.2
+seaborn==0.12.2
